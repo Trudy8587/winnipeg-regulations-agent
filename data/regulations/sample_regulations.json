@@ -1,0 +1,147 @@
+{
+  "regulations": [
+    {
+      "id": "WBL-2024-001",
+      "title": "Business Licensing By-law",
+      "section": "3.0",
+      "subsection": "3.2.1",
+      "text": "Every person operating a business in the City of Winnipeg shall obtain a business license from the City before commencing operations. The application must include proof of ownership or lease, business plan, and proof of insurance.",
+      "category": "business",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["business", "license", "permit", "application"]
+    },
+    {
+      "id": "WBL-2024-001",
+      "title": "Business Licensing By-law",
+      "section": "3.0",
+      "subsection": "3.2.2",
+      "text": "Food service businesses require an additional Food Service License. Applicants must pass a health inspection and maintain compliance with food safety regulations. License renewal is required annually.",
+      "category": "business",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["food", "restaurant", "license", "health", "inspection"]
+    },
+    {
+      "id": "WBL-2024-002",
+      "title": "Zoning By-law",
+      "section": "7.0",
+      "subsection": "7.1.1",
+      "text": "Properties in Downtown Winnipeg (Zone DT1) are designated for commercial and mixed-use development. Residential units are permitted on upper floors of commercial buildings. Minimum setbacks: 0 feet from street, 15 feet from rear lot line.",
+      "category": "zoning",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["zoning", "downtown", "commercial", "residential", "setback"]
+    },
+    {
+      "id": "WBL-2024-002",
+      "title": "Zoning By-law",
+      "section": "7.0",
+      "subsection": "7.2.3",
+      "text": "Secondary suites are permitted in residential zones (R1-R4) subject to the following conditions: Maximum occupancy of 2 persons, separate entrance required, off-street parking for at least one vehicle. Application to the Zoning Officer required.",
+      "category": "zoning",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["secondary suite", "residential", "zoning", "parking"]
+    },
+    {
+      "id": "WBL-2024-003",
+      "title": "Building and Construction By-law",
+      "section": "5.0",
+      "subsection": "5.3.1",
+      "text": "All new buildings must meet National Building Code standards. Construction requires a building permit issued by the City. Inspections are required at foundation, framing, rough-in, and final completion stages before occupancy permit is issued.",
+      "category": "permits",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["building", "permit", "construction", "inspection", "occupancy"]
+    },
+    {
+      "id": "WBL-2024-003",
+      "title": "Building and Construction By-law",
+      "section": "5.0",
+      "subsection": "5.5.2",
+      "text": "Accessibility compliance is mandatory for all public buildings and businesses. Buildings must meet AODA (Accessibility for Ontarians with Disabilities Act) standards where applicable. Minimum requirements: wheelchair accessible entrance, accessible washrooms, accessible parking spaces (1 per 25 spaces minimum).",
+      "category": "accessibility",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["accessibility", "AODA", "wheelchair", "disabled", "compliance"]
+    },
+    {
+      "id": "WBL-2024-004",
+      "title": "Noise By-law",
+      "section": "2.0",
+      "subsection": "2.1.5",
+      "text": "Noise levels must not exceed 55 dB during daytime hours (7 AM - 10 PM) and 45 dB during nighttime hours (10 PM - 7 AM) in residential areas. Construction work is limited to 7 AM - 6 PM Monday-Friday and 9 AM - 5 PM Saturday. No construction on Sundays and holidays.",
+      "category": "compliance",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["noise", "construction", "residential", "hours", "compliance"]
+    },
+    {
+      "id": "WBL-2024-005",
+      "title": "Off-Street Parking By-law",
+      "section": "4.0",
+      "subsection": "4.2.1",
+      "text": "Commercial buildings must provide minimum parking spaces based on use: 1 space per 250 sq ft for retail, 1 space per 400 sq ft for office, 1 space per 50 sq ft for restaurant. Accessible parking spaces required at 1 per 25 spaces minimum.",
+      "category": "zoning",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["parking", "commercial", "retail", "office", "restaurant"]
+    },
+    {
+      "id": "MR-2024-001",
+      "title": "Manitoba Workplace Health and Safety Regulation",
+      "section": "10.0",
+      "subsection": "10.3.2",
+      "text": "All employers in Manitoba must implement a workplace health and safety program. This includes hazard identification, risk assessment, worker training, and incident reporting. Workers have the right to refuse unsafe work.",
+      "category": "compliance",
+      "effective_date": "2024-01-01",
+      "source_url": "https://gov.mb.ca/justice/",
+      "tags": ["health", "safety", "workplace", "workers", "Manitoba"]
+    },
+    {
+      "id": "MR-2024-002",
+      "title": "Manitoba Employment Standards Act",
+      "section": "3.0",
+      "subsection": "3.5.1",
+      "text": "Minimum wage in Manitoba is $15.45 per hour (as of 2024). Employees are entitled to: minimum 2 weeks vacation after 5 years, statutory holidays with pay, overtime pay at 1.5x after 40 hours per week, safe working conditions.",
+      "category": "compliance",
+      "effective_date": "2024-01-01",
+      "source_url": "https://gov.mb.ca/justice/",
+      "tags": ["employment", "minimum wage", "vacation", "overtime", "Manitoba"]
+    },
+    {
+      "id": "WBL-2024-006",
+      "title": "Signage By-law",
+      "section": "8.0",
+      "subsection": "8.2.1",
+      "text": "Commercial signage must comply with the following: Maximum height 15 feet for freestanding signs, 2 sq ft per linear foot of frontage for building signs. Signs must not obstruct sightlines at intersections or block windows. Illuminated signs permitted but must not flash more than once per second.",
+      "category": "zoning",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["signage", "commercial", "height", "illuminated", "permit"]
+    },
+    {
+      "id": "WBL-2024-007",
+      "title": "Licenced Establishment By-law",
+      "section": "6.0",
+      "subsection": "6.1.2",
+      "text": "Establishments serving alcohol require a Liquor License. Application requires: police record check, proof of responsible server training, location consent from nearby residents/businesses within 100 meters, proof of compliance with health codes.",
+      "category": "business",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["liquor", "license", "alcohol", "server", "training"]
+    },
+    {
+      "id": "WBL-2024-008",
+      "title": "Property Maintenance By-law",
+      "section": "9.0",
+      "subsection": "9.3.1",
+      "text": "Property owners must maintain buildings in good repair including: roof in good condition, exterior walls free of damage, no accumulation of snow/ice presenting hazard, graffiti must be removed within 10 days of notice. Failure to comply can result in fines up to $500.",
+      "category": "compliance",
+      "effective_date": "2024-01-01",
+      "source_url": "https://winnipeg.ca/bylaws/",
+      "tags": ["property", "maintenance", "repair", "code enforcement"]
+    }
+  ]
+}
